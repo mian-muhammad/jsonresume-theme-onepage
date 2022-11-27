@@ -1,115 +1,142 @@
 {
+  "meta": {
+    "theme": "kendall"
+  },
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
-    "picture": "",
-    "email": "richard.hendricks@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "name": "Mian Muhammad",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/20898558?s=400&u=04096eb7c4ed6568294cbbc890bea24702b6f2e8&v=4",
+    "summary": "A Programming Enthusiast and a Full-Stack JavaScript developer proficient in modern single-page applications and secure, scalable back-ends using React, GraphQL, REST, NodeJS and the cloud.",
+    "website": "https://mianmuhammad.info",
+    "email": "mianmuhammad80@gmail.com",
+    "phone": "(+92) 3024936537",
     "location": {
-      "city": "San Francisco",
-      "countryCode": "US"
+      "city": "Lahore",
+      "countryCode": "PK"
     },
     "profiles": [
       {
-        "url": "http://twitter.com/neutralthoughts"
+        "username": "Mian Muhammad",
+        "url": "https://www.linkedin.com/in/mian-muhammad/",
+        "network": "LinkedIn"
       },
       {
-        "url": "https://soundcloud.com/dandymusicnl"
+        "url": "https://github.com/mian-muhammad",
+        "username": "Mian Muhammad",
+        "network": "Github"
       }
     ]
   },
-  "work": [
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013",
-      "endDate": "2014",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "details": [
-        { "text": "Build an algorithm for artist to detect if their music was violating copy right infringement laws", "comment": "Java" },
-        { "text": "Optimized an algorithm that holds the current world record for Weisman Scores", "comment": "c++" },
-        { "text": "Successfully won Techcrunch Disrupt" }
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012",
-      "endDate": "2013",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011",
-      "endDate": "2014",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "area": "Computer Science",
+      "studyType": "Bachelors",
+      "institution": "University of Sargodha"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "details": [
-        { "text": "HTML", "comment": "expert" },
-        { "text": "CSS", "comment": "expert" },
-        { "text": "Javascript", "comment": "expert" }
-      ]
+      "keywords": ["JavaScript/Typescript", "React", "Tailwindcss"],
+      "name": "Frontend"
     },
     {
-      "name": "Compression",
-      "details": [
-        { "text": "Mpeg", "comment": "competent" },
-        { "text": "MP4", "comment": "competent" },
-        { "text": "GIF", "comment": "novice" }
-      ]
+      "keywords": [
+        "JavaScript/Typescript",
+        "NodeJs",
+        "MySQL",
+        "Postgres",
+        "ExpressJS",
+        "NestJS",
+        "Docker"
+      ],
+      "name": "Backend"
     }
   ],
-  "languages": [
+  "work": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "company": "Maxenius LLC",
+      "website": "https://maxenius.com/",
+      "name": "Maxenius",
+      "location": "Lahore",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2022-01-03",
+      "summary": "Design, Develope and Manage softwares using ExpressJS, NestJS and ReactJS.",
+      "details": [
+        {
+        "text": "Working with the client to convert technical requirements into Frontend or backend code."
+        },
+        {
+        "text": "Contributed to Digsmore(Its just like CarFax) and lead the backend team of project. Also contributed to frontend."
+        },
+        {
+        "text": "Developed and maintaining a ReactJS/NodeJS App for shopify."
+        },
+        {
+          "text": "Writing tests using JEST and Cypress."
+        }
+    ]
+  },
+  {
+    "company": "Synavos",
+    "summary": "Structure and design custom REST APIs built in JavaScript Nodejs/Express.",
+    "details": [
+      {
+        "text": "Participated in all phases of software development life cycle (SDLC)."
+      },
+      {
+        "text": "Collaborated with other software engineers in diagnosing, fixing, and preventing production issues.Work with the technical lead and other engineers to maintain and develop new features, as well as enhancing existing functionalities."
+      },
+      {
+        "text": "Jira task creation and task assignment to team members. Projects worked on Ticketlake, Brandcloud, Bob the Builder"
+      },
+      {
+          "text": "Wrote Unit Tests using Jest."
+      }
+    ],
+      "website": "https://synavos.com/",
+      "name": "Synavos",
+      "location": "Lahore",
+      "position": "Software Engineer",
+      "startDate": "2018-10-01",
+      "endDate": "2022-12-31"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Meymaar",
+      "description": "Meymaar is an end-to-end solution based on BIM for companies dealing with Construction services. It provides workflow from very concept of a building to 3D modeling (Integrated with Autodesk Revit) , building cost estimates, budget approvals, bidding, tendering, contracting leading up to Construction & Tracking of a building. I was involved in development of Backend APIs, bugs fixes.",
+      "startDate": "2019-01-01",
+      "endDate": "2019-08-01"
+    },
+    {
+      "name": "Ticketlake",
+      "description": "This Project is basically a SaaS-based multi-platform ticketing System. In which one company can register with ticketlake and can sell their tickets and for consumer-end, there is a web and mobile apps where they can buy tickets. This platform is providing an ecosystem to whole ticketing-related things.",
+      "startDate": "2019-08-01",
+      "endDate": "2020-02-01"
+    },
+    {
+      "name": "FEBYS",
+      "description": "It is an multi vendor e-commerce website like amazon. It has an admin panel, website for consumer, an android and iOS application. I was involved in development and maintenance of backend APIs",
+      "startDate": "2020-09-01",
+      "endDate": "2021-07-01"
+    },
+    {
+      "name": "Brandcloud",
+      "description": "BrandCloud’s Social DNA™ uses interactions with millions of consumers to identify a brand’s most active customers and develop behavioral profiles that outline what motivates them to purchase and advocate for the brand. I am fully responsible for writing and maintaining the entire backend of this project",
+      "startDate": "2020-02-01"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "name": "Gaming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Open Source"
     }
   ]
 }

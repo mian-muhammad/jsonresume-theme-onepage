@@ -9,13 +9,15 @@
   },
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^2.0.0-alpha.4",
-    "css": "2.2.x"
+    "css": "2.2.x",
+    "handlebars": "^2.0.0-alpha.4"
   },
   "bugs": {
     "url": "https://github.com/ainsleychong/jsonresume-theme-onepage/issues"
   },
   "homepage": "https://github.com/ainsleychong/jsonresume-theme-onepage",
   "main": "index.js",
-  "devDependencies": {}
+  "devDependencies": {
+    "resume-cli": "^3.0.8"
+  }
 }
