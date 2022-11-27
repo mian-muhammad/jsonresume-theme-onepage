@@ -48,6 +48,7 @@
         "MySQL",
         "Postgres",
         "ExpressJS",
+        "MongoDB",
         "NestJS",
         "Docker"
       ],
